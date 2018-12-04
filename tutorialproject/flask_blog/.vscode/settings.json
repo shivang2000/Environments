@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "flask_blog/bin/python",
+    "python.linting.pylintEnabled": false
+}
